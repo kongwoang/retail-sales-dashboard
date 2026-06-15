@@ -42,83 +42,22 @@ retail-sales-dashboard/
 
 ---
 
-# 🚀 HƯỚNG DẪN CHẠY TỪ ĐẦU (chưa cài gì cả)
+# 🚀 HƯỚNG DẪN CHẠY
 
-## Bước 0 — Cài đặt Python
+> Yêu cầu: máy đã có sẵn **Python 3.9+** và mã nguồn dự án (clone hoặc tải ZIP
+> từ <https://github.com/kongwoang/retail-sales-dashboard>). Mở terminal/PowerShell
+> và `cd` vào thư mục `retail-sales-dashboard` trước khi chạy các lệnh dưới đây.
 
-Ứng dụng cần **Python 3.9 trở lên** (khuyến nghị 3.11 hoặc 3.12).
-
-### Windows
-1. Vào <https://www.python.org/downloads/> → tải bản Python mới nhất.
-2. Chạy file cài đặt. **QUAN TRỌNG:** tích vào ô **“Add Python to PATH”** ở
-   màn hình đầu tiên, rồi bấm **Install Now**.
-3. Mở **PowerShell** (gõ `powershell` ở ô tìm kiếm Windows) và kiểm tra:
-   ```powershell
-   python --version
-   ```
-   Nếu hiện ra ví dụ `Python 3.12.x` là đã cài thành công.
-
-### macOS
-```bash
-brew install python      # nếu đã có Homebrew
-python3 --version
-```
-
-### Linux (Ubuntu/Debian)
-```bash
-sudo apt update && sudo apt install -y python3 python3-pip python3-venv
-python3 --version
-```
-
-> Nếu lệnh `python` không chạy, thử `python3`. Trên Windows dùng `python`,
-> trên macOS/Linux thường là `python3`.
-
-## Bước 1 — Cài Git (nếu chưa có) và tải mã nguồn
-
-### Cách A — Dùng Git (khuyến nghị)
-1. Cài Git tại <https://git-scm.com/downloads> (Windows tích chọn mặc định là được).
-2. Clone repo về máy:
-   ```bash
-   git clone https://github.com/kongwoang/retail-sales-dashboard.git
-   cd retail-sales-dashboard
-   ```
-
-### Cách B — Tải ZIP (không cần Git)
-1. Vào <https://github.com/kongwoang/retail-sales-dashboard>.
-2. Bấm nút xanh **Code → Download ZIP**, giải nén ra một thư mục.
-3. Mở terminal/PowerShell và `cd` vào thư mục vừa giải nén.
-
-## Bước 2 — Tạo môi trường ảo (virtual environment)
-
-Giúp cách ly thư viện, không ảnh hưởng Python hệ thống.
-
-**Windows (PowerShell):**
-```powershell
-python -m venv venv
-.\venv\Scripts\Activate.ps1
-```
-> Nếu báo lỗi *“running scripts is disabled”*, chạy lệnh sau một lần rồi
-> activate lại:
-> ```powershell
-> Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
-> ```
-
-**macOS / Linux:**
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-Khi thành công, đầu dòng lệnh sẽ có chữ `(venv)`.
-
-## Bước 3 — Cài thư viện
+## Bước 1 — Cài thư viện
 
 ```bash
 pip install -r requirements.txt
 ```
 Lần đầu có thể mất 1–3 phút để tải Streamlit, Pandas, Plotly, OpenPyXL.
 
-## Bước 4 — Chạy ứng dụng
+> Trên macOS/Linux nếu `pip` không chạy, thử `pip3`.
+
+## Bước 2 — Chạy ứng dụng
 
 ```bash
 streamlit run app.py
@@ -163,9 +102,8 @@ Trình duyệt sẽ tự mở. Nếu không, hãy mở thủ công:
 
 | Triệu chứng | Cách xử lý |
 |-------------|-----------|
-| `python` / `pip` không nhận diện được | Cài lại Python và nhớ tích **Add Python to PATH**; thử `python3`/`pip3`. |
-| `streamlit: command not found` | Chưa activate venv hoặc chưa cài. Chạy lại Bước 2 & 3. |
-| PowerShell chặn `Activate.ps1` | Chạy `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned` rồi thử lại. |
+| `pip` không nhận diện được | Thử `pip3` (macOS/Linux), hoặc `python -m pip install -r requirements.txt`. |
+| `streamlit: command not found` | Chưa cài thư viện. Chạy lại Bước 1, hoặc dùng `python -m streamlit run app.py`. |
 | Cổng 8501 đang bận | Chạy `streamlit run app.py --server.port 8600`. |
 | Đọc Excel báo lỗi | Đảm bảo đã cài `openpyxl` (đã nằm trong `requirements.txt`). |
 
