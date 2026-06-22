@@ -1,0 +1,8 @@
+# Theme sáng (light) tông y tế xanh mint
+[theme]
+base = "light"
+primaryColor = "#0E9F6E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0FBF4"
+textColor = "#1A2B23"
+font = "sans serif"

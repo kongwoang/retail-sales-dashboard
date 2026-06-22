@@ -1,0 +1,211 @@
+﻿Mã khám,Ngày khám,Bệnh nhân,Khoa,Dịch vụ,Tỉnh/Thành,Số lượng,Đơn giá,Viện phí
+KB00001,2024-04-24,BN0018,Khoa Tim mạch,Khám tim mạch,Lâm Đồng,1,244000,244000
+KB00002,2024-10-29,BN0055,Khoa Ngoại,Thay băng - cắt chỉ,Hà Nội,1,100000,100000
+KB00003,2024-01-14,BN0026,Khoa Nội,Khám nội tổng quát,Lâm Đồng,1,150000,150000
+KB00004,2024-10-28,BN0036,Khoa Tim mạch,Holter điện tim 24h,Hà Nội,1,680000,680000
+KB00005,2024-04-20,BN0044,Khoa Sản - Phụ khoa,Khám phụ khoa,TP. Hồ Chí Minh,1,244000,244000
+KB00006,2024-11-05,BN0034,Khoa Ngoại,Tiểu phẫu,Hà Nội,1,828000,828000
+KB00007,2024-10-09,BN0038,Khoa Da liễu,Khám da liễu,Quảng Ninh,3,198000,594000
+KB00008,2024-01-24,BN0030,Chẩn đoán hình ảnh,Chụp CT-Scanner,Cần Thơ,1,1531000,1531000
+KB00009,2024-08-20,BN0047,Khoa Ngoại,Khám ngoại,Đà Nẵng,2,148000,296000
+KB00010,2024-12-15,BN0010,Khoa Tai - Mũi - Họng,Khám tai mũi họng,Khánh Hòa,1,147000,147000
+KB00011,2024-08-24,BN0049,Khoa Tim mạch,Khám tim mạch,Cần Thơ,1,244000,244000
+KB00012,2024-01-29,BN0030,Khoa Tim mạch,Holter điện tim 24h,Hà Nội,1,713000,713000
+KB00013,2024-10-17,BN0041,Khoa Tai - Mũi - Họng,Khám tai mũi họng,Hải Phòng,1,146000,146000
+KB00014,2024-08-22,BN0019,Khoa Tim mạch,Siêu âm tim,Cần Thơ,1,417000,417000
+KB00015,2024-10-26,BN0055,Khoa Sản - Phụ khoa,Khám thai định kỳ,Khánh Hòa,1,201000,201000
+KB00016,2024-09-17,BN0064,Khoa Mắt,Đo thị lực,TP. Hồ Chí Minh,1,84000,84000
+KB00017,2024-12-14,BN0055,Khoa Nội,Khám nội tổng quát,Khánh Hòa,1,145000,145000
+KB00018,2024-09-27,BN0033,Khoa Ngoại,Tiểu phẫu,Đồng Nai,1,840000,840000
+KB00019,2024-10-01,BN0035,Khoa Nội,Tư vấn nội tiết - đái tháo đường,Quảng Ninh,1,204000,204000
+KB00020,2024-01-02,BN0034,Khoa Tai - Mũi - Họng,Nội soi tai mũi họng,Đồng Nai,1,338000,338000
+KB00021,2024-06-01,BN0065,Khoa Sản - Phụ khoa,Khám phụ khoa,Khánh Hòa,2,259000,518000
+KB00022,2024-09-28,BN0001,Khoa Nhi,Khám nhi,Khánh Hòa,1,145000,145000
+KB00023,2024-06-06,BN0031,Khoa Tai - Mũi - Họng,Khám tai mũi họng,Hà Nội,1,156000,156000
+KB00024,2024-09-05,BN0009,Khoa Nhi,Khí dung,Đồng Nai,2,115000,230000
+KB00025,2024-03-25,BN0034,Khoa Sản - Phụ khoa,Khám thai định kỳ,Đồng Nai,1,209000,209000
+KB00026,2024-12-19,BN0026,Chẩn đoán hình ảnh,Chụp cộng hưởng từ (MRI),Lâm Đồng,3,2607000,7821000
+KB00027,2024-08-12,BN0067,Khoa Răng - Hàm - Mặt,Cạo vôi răng,Bình Dương,3,304000,912000
+KB00028,2024-10-28,BN0030,Khoa Ngoại,Khám ngoại,Khánh Hòa,1,148000,148000
+KB00029,2024-04-27,BN0009,Khoa Nhi,Khám nhi,Hà Nội,1,152000,152000
+KB00030,2024-09-05,BN0028,Khoa Tai - Mũi - Họng,Nội soi tai mũi họng,Đồng Nai,1,342000,342000
+KB00031,2024-08-30,BN0032,Khoa Sản - Phụ khoa,Khám phụ khoa,Bình Dương,2,252000,504000
+KB00032,2024-06-30,BN0055,Khoa Mắt,Khám mắt,Thanh Hóa,1,152000,152000
+KB00033,2024-02-20,BN0008,Khoa Da liễu,Khám da liễu,Thanh Hóa,1,210000,210000
+KB00034,2024-08-17,BN0018,Khoa Tai - Mũi - Họng,Nội soi tai mũi họng,Thanh Hóa,1,339000,339000
+KB00035,2024-02-08,BN0057,Khoa Sản - Phụ khoa,Siêu âm thai 4D,Đồng Nai,1,363000,363000
+KB00036,2024-01-08,BN0012,Khoa Ngoại,Khám ngoại,Hải Phòng,1,151000,151000
+KB00037,2024-07-24,BN0008,Khoa Sản - Phụ khoa,Siêu âm thai 4D,Đà Nẵng,1,340000,340000
+KB00038,2024-08-20,BN0037,Khoa Mắt,Khám mắt,Thanh Hóa,3,146000,438000
+KB00039,2024-05-31,BN0028,Khoa Xét nghiệm,Xét nghiệm sinh hóa,Hà Nội,1,386000,386000
+KB00040,2024-10-26,BN0062,Chẩn đoán hình ảnh,Chụp X-quang,Đồng Nai,1,191000,191000
+KB00041,2024-04-05,BN0009,Khoa Xét nghiệm,Xét nghiệm máu,Khánh Hòa,1,250000,250000
+KB00042,2024-10-18,BN0032,Khoa Ngoại,Thay băng - cắt chỉ,Khánh Hòa,2,99000,198000
+KB00043,2024-10-25,BN0067,Chẩn đoán hình ảnh,Chụp X-quang,Nghệ An,1,198000,198000
+KB00044,2024-05-15,BN0051,Khoa Răng - Hàm - Mặt,Nhổ răng,Đà Nẵng,1,491000,491000
+KB00045,2024-02-07,BN0002,Khoa Tim mạch,Holter điện tim 24h,Bình Dương,1,687000,687000
+KB00046,2024-05-15,BN0017,Chẩn đoán hình ảnh,Chụp X-quang,Nghệ An,1,194000,194000
+KB00047,2024-10-05,BN0039,Khoa Ngoại,Khám ngoại,Khánh Hòa,1,145000,145000
+KB00048,2024-06-02,BN0014,Khoa Tim mạch,Holter điện tim 24h,Đà Nẵng,1,722000,722000
+KB00049,2024-03-20,BN0035,Khoa Răng - Hàm - Mặt,Khám răng,Cần Thơ,2,102000,204000
+KB00050,2024-11-20,BN0034,Chẩn đoán hình ảnh,Siêu âm ổ bụng,Đồng Nai,1,243000,243000
+KB00051,2024-02-17,BN0055,Khoa Da liễu,Điều trị laser,Cần Thơ,2,621000,1242000
+KB00052,2024-05-14,BN0021,Khoa Nội,Khám nội tổng quát,Lâm Đồng,1,144000,144000
+KB00053,2024-12-19,BN0020,Khoa Da liễu,Điều trị laser,Đồng Nai,1,577000,577000
+KB00054,2024-03-06,BN0006,Khoa Nội,Điện tim (ECG),Cần Thơ,1,116000,116000
+KB00055,2024-05-07,BN0014,Khoa Tai - Mũi - Họng,Nội soi tai mũi họng,Nghệ An,2,340000,680000
+KB00056,2024-05-01,BN0021,Khoa Xét nghiệm,Xét nghiệm nước tiểu,Đà Nẵng,3,123000,369000
+KB00057,2024-07-29,BN0032,Khoa Mắt,Khám mắt,Cần Thơ,1,156000,156000
+KB00058,2024-08-28,BN0029,Khoa Sản - Phụ khoa,Khám phụ khoa,Hải Phòng,1,259000,259000
+KB00059,2024-04-26,BN0029,Khoa Da liễu,Điều trị laser,Hà Nội,1,618000,618000
+KB00060,2024-02-05,BN0036,Khoa Tim mạch,Khám tim mạch,Nghệ An,1,244000,244000
+KB00061,2024-10-01,BN0043,Khoa Tim mạch,Holter điện tim 24h,Hà Nội,1,734000,734000
+KB00062,2024-05-15,BN0005,Khoa Ngoại,Tiểu phẫu,TP. Hồ Chí Minh,1,837000,837000
+KB00063,2024-08-11,BN0066,Chẩn đoán hình ảnh,Chụp cộng hưởng từ (MRI),TP. Hồ Chí Minh,1,2572000,2572000
+KB00064,2024-01-01,BN0067,Khoa Mắt,Khám mắt,Đồng Nai,1,153000,153000
+KB00065,2024-04-10,BN0047,Khoa Tim mạch,Holter điện tim 24h,Thanh Hóa,2,717000,1434000
+KB00066,2024-12-05,BN0016,Khoa Ngoại,Thay băng - cắt chỉ,Lâm Đồng,2,101000,202000
+KB00067,2024-12-22,BN0038,Khoa Răng - Hàm - Mặt,Trám răng,Đồng Nai,1,393000,393000
+KB00068,2024-12-12,BN0023,Khoa Sản - Phụ khoa,Khám thai định kỳ,Khánh Hòa,1,209000,209000
+KB00069,2024-06-04,BN0037,Chẩn đoán hình ảnh,Chụp CT-Scanner,Hải Phòng,1,1550000,1550000
+KB00070,2024-04-19,BN0066,Khoa Mắt,Đo thị lực,Bình Dương,1,80000,80000
+KB00071,2024-11-20,BN0043,Khoa Sản - Phụ khoa,Khám phụ khoa,TP. Hồ Chí Minh,1,250000,250000
+KB00072,2024-03-16,BN0004,Khoa Nhi,Khí dung,Hà Nội,1,124000,124000
+KB00073,2024-08-21,BN0054,Khoa Nhi,Tiêm chủng vắc-xin,Quảng Ninh,1,308000,308000
+KB00074,2024-07-23,BN0032,Chẩn đoán hình ảnh,Siêu âm ổ bụng,Đà Nẵng,1,247000,247000
+KB00075,2024-02-24,BN0055,Khoa Tim mạch,Holter điện tim 24h,Hải Phòng,1,718000,718000
+KB00076,2024-05-07,BN0016,Khoa Sản - Phụ khoa,Khám phụ khoa,Bình Dương,1,239000,239000
+KB00077,2024-10-31,BN0041,Khoa Sản - Phụ khoa,Siêu âm thai 4D,Bình Dương,1,367000,367000
+KB00078,2024-03-22,BN0061,Chẩn đoán hình ảnh,Chụp cộng hưởng từ (MRI),Bình Dương,2,2512000,5024000
+KB00079,2024-09-23,BN0063,Khoa Răng - Hàm - Mặt,Nhổ răng,Quảng Ninh,2,489000,978000
+KB00080,2024-04-30,BN0035,Khoa Nhi,Tiêm chủng vắc-xin,Nghệ An,1,306000,306000
+KB00081,2024-12-21,BN0020,Khoa Tai - Mũi - Họng,Nội soi tai mũi họng,Lâm Đồng,1,341000,341000
+KB00082,2024-08-26,BN0054,Khoa Nhi,Khám nhi,Hà Nội,1,147000,147000
+KB00083,2024-12-22,BN0003,Khoa Nhi,Tiêm chủng vắc-xin,Khánh Hòa,1,308000,308000
+KB00084,2024-07-18,BN0054,Khoa Mắt,Đo thị lực,Đồng Nai,1,79000,79000
+KB00085,2024-05-19,BN0056,Khoa Xét nghiệm,Xét nghiệm sinh hóa,Bình Dương,2,400000,800000
+KB00086,2024-07-26,BN0022,Khoa Nội,Điện tim (ECG),Bình Dương,1,122000,122000
+KB00087,2024-10-30,BN0004,Khoa Sản - Phụ khoa,Khám phụ khoa,TP. Hồ Chí Minh,1,260000,260000
+KB00088,2024-01-26,BN0034,Khoa Tim mạch,Siêu âm tim,Thanh Hóa,1,398000,398000
+KB00089,2024-07-13,BN0036,Khoa Tai - Mũi - Họng,Nội soi tai mũi họng,Thanh Hóa,1,344000,344000
+KB00090,2024-01-27,BN0045,Khoa Răng - Hàm - Mặt,Khám răng,Hải Phòng,1,102000,102000
+KB00091,2024-01-16,BN0032,Khoa Tim mạch,Khám tim mạch,Hải Phòng,1,254000,254000
+KB00092,2024-12-08,BN0015,Khoa Nội,Tư vấn nội tiết - đái tháo đường,Khánh Hòa,1,193000,193000
+KB00093,2024-03-26,BN0015,Khoa Nhi,Tiêm chủng vắc-xin,Đà Nẵng,1,308000,308000
+KB00094,2024-10-21,BN0049,Khoa Răng - Hàm - Mặt,Khám răng,Thanh Hóa,1,104000,104000
+KB00095,2024-05-04,BN0014,Khoa Nhi,Khám nhi,Lâm Đồng,1,155000,155000
+KB00096,2024-01-22,BN0045,Khoa Răng - Hàm - Mặt,Khám răng,Đồng Nai,1,101000,101000
+KB00097,2024-01-07,BN0054,Khoa Mắt,Đo thị lực,Bình Dương,1,81000,81000
+KB00098,2024-08-23,BN0020,Khoa Ngoại,Tiểu phẫu,Thanh Hóa,3,811000,2433000
+KB00099,2024-11-11,BN0069,Khoa Sản - Phụ khoa,Khám phụ khoa,Bình Dương,1,254000,254000
+KB00100,2024-06-14,BN0032,Khoa Da liễu,Điều trị laser,TP. Hồ Chí Minh,2,606000,1212000
+KB00101,2024-11-08,BN0049,Khoa Răng - Hàm - Mặt,Cạo vôi răng,Nghệ An,1,299000,299000
+KB00102,2024-04-18,BN0046,Khoa Nội,Điện tim (ECG),Cần Thơ,2,116000,232000
+KB00103,2024-05-21,BN0002,Khoa Tai - Mũi - Họng,Khám tai mũi họng,Đồng Nai,2,153000,306000
+KB00104,2024-10-11,BN0031,Khoa Nhi,Khám nhi,Lâm Đồng,1,149000,149000
+KB00105,2024-05-30,BN0029,Khoa Da liễu,Điều trị laser,Thanh Hóa,1,571000,571000
+KB00106,2024-10-10,BN0068,Khoa Nhi,Tiêm chủng vắc-xin,Nghệ An,1,296000,296000
+KB00107,2024-06-05,BN0033,Khoa Mắt,Đo thị lực,Hải Phòng,1,80000,80000
+KB00108,2024-10-01,BN0024,Khoa Ngoại,Thay băng - cắt chỉ,Hải Phòng,1,96000,96000
+KB00109,2024-09-25,BN0037,Khoa Nhi,Khí dung,TP. Hồ Chí Minh,1,123000,123000
+KB00110,2024-01-08,BN0069,Khoa Nhi,Tiêm chủng vắc-xin,Đà Nẵng,1,290000,290000
+KB00111,2024-12-23,BN0017,Khoa Răng - Hàm - Mặt,Khám răng,Quảng Ninh,3,101000,303000
+KB00112,2024-08-28,BN0062,Khoa Da liễu,Khám da liễu,Bình Dương,2,201000,402000
+KB00113,2024-09-01,BN0015,Khoa Tai - Mũi - Họng,Nội soi tai mũi họng,TP. Hồ Chí Minh,3,341000,1023000
+KB00114,2024-01-28,BN0020,Khoa Mắt,Đo thị lực,Đà Nẵng,1,81000,81000
+KB00115,2024-10-12,BN0054,Chẩn đoán hình ảnh,Chụp CT-Scanner,Khánh Hòa,1,1462000,1462000
+KB00116,2024-08-14,BN0039,Chẩn đoán hình ảnh,Siêu âm ổ bụng,Khánh Hòa,1,247000,247000
+KB00117,2024-02-20,BN0027,Khoa Mắt,Đo thị lực,Quảng Ninh,1,76000,76000
+KB00118,2024-03-29,BN0010,Khoa Nhi,Tiêm chủng vắc-xin,Đà Nẵng,1,290000,290000
+KB00119,2024-05-29,BN0005,Khoa Nội,Điện tim (ECG),Hải Phòng,1,121000,121000
+KB00120,2024-12-17,BN0030,Khoa Răng - Hàm - Mặt,Trám răng,Cần Thơ,1,398000,398000
+KB00121,2024-08-05,BN0015,Khoa Tim mạch,Holter điện tim 24h,Đồng Nai,1,730000,730000
+KB00122,2024-03-13,BN0010,Khoa Nhi,Khí dung,Hà Nội,1,117000,117000
+KB00123,2024-05-27,BN0057,Khoa Sản - Phụ khoa,Siêu âm thai 4D,TP. Hồ Chí Minh,1,361000,361000
+KB00124,2024-09-13,BN0070,Khoa Da liễu,Điều trị laser,Bình Dương,1,627000,627000
+KB00125,2024-06-14,BN0033,Khoa Da liễu,Khám da liễu,Hà Nội,1,208000,208000
+KB00126,2024-10-21,BN0003,Khoa Ngoại,Khám ngoại,Quảng Ninh,3,155000,465000
+KB00127,2024-09-22,BN0057,Khoa Răng - Hàm - Mặt,Khám răng,Cần Thơ,1,97000,97000
+KB00128,2024-02-16,BN0061,Khoa Sản - Phụ khoa,Khám phụ khoa,Nghệ An,1,258000,258000
+KB00129,2024-03-23,BN0043,Khoa Mắt,Đo thị lực,Thanh Hóa,1,77000,77000
+KB00130,2024-10-08,BN0005,Khoa Da liễu,Điều trị laser,Bình Dương,1,594000,594000
+KB00131,2024-07-25,BN0066,Khoa Ngoại,Tiểu phẫu,Hà Nội,1,769000,769000
+KB00132,2024-09-22,BN0047,Khoa Tim mạch,Holter điện tim 24h,Khánh Hòa,1,669000,669000
+KB00133,2024-10-08,BN0017,Khoa Da liễu,Điều trị laser,Cần Thơ,1,582000,582000
+KB00134,2024-11-07,BN0031,Khoa Da liễu,Điều trị laser,Lâm Đồng,1,628000,628000
+KB00135,2024-02-17,BN0029,Khoa Sản - Phụ khoa,Siêu âm thai 4D,TP. Hồ Chí Minh,1,352000,352000
+KB00136,2024-05-29,BN0066,Khoa Da liễu,Khám da liễu,Lâm Đồng,1,193000,193000
+KB00137,2024-05-04,BN0059,Khoa Răng - Hàm - Mặt,Cạo vôi răng,Đồng Nai,2,314000,628000
+KB00138,2024-03-10,BN0009,Khoa Sản - Phụ khoa,Siêu âm thai 4D,Cần Thơ,1,353000,353000
+KB00139,2024-01-02,BN0037,Khoa Mắt,Đo thị lực,Lâm Đồng,2,80000,160000
+KB00140,2024-09-04,BN0045,Khoa Răng - Hàm - Mặt,Cạo vôi răng,Nghệ An,2,298000,596000
+KB00141,2024-04-06,BN0031,Khoa Xét nghiệm,Xét nghiệm sinh hóa,Khánh Hòa,1,417000,417000
+KB00142,2024-06-11,BN0061,Khoa Mắt,Khám mắt,Lâm Đồng,2,149000,298000
+KB00143,2024-11-29,BN0020,Khoa Mắt,Đo thị lực,Bình Dương,3,82000,246000
+KB00144,2024-02-21,BN0057,Khoa Nội,Khám nội tổng quát,TP. Hồ Chí Minh,1,151000,151000
+KB00145,2024-12-01,BN0020,Khoa Xét nghiệm,Xét nghiệm nước tiểu,TP. Hồ Chí Minh,1,116000,116000
+KB00146,2024-11-28,BN0011,Khoa Da liễu,Điều trị laser,Nghệ An,1,612000,612000
+KB00147,2024-09-06,BN0070,Khoa Tim mạch,Holter điện tim 24h,Hà Nội,1,687000,687000
+KB00148,2024-05-27,BN0030,Chẩn đoán hình ảnh,Chụp X-quang,Lâm Đồng,1,204000,204000
+KB00149,2024-12-26,BN0013,Khoa Ngoại,Tiểu phẫu,Bình Dương,3,821000,2463000
+KB00150,2024-06-15,BN0008,Khoa Sản - Phụ khoa,Khám phụ khoa,Cần Thơ,1,238000,238000
+KB00151,2024-07-29,BN0024,Khoa Tai - Mũi - Họng,Khám tai mũi họng,Đà Nẵng,1,146000,146000
+KB00152,2024-12-15,BN0031,Khoa Sản - Phụ khoa,Khám thai định kỳ,Bình Dương,1,198000,198000
+KB00153,2024-08-23,BN0033,Chẩn đoán hình ảnh,Siêu âm ổ bụng,Quảng Ninh,1,253000,253000
+KB00154,2024-03-21,BN0010,Khoa Nội,Điện tim (ECG),Bình Dương,2,122000,244000
+KB00155,2024-05-08,BN0059,Khoa Tai - Mũi - Họng,Khám tai mũi họng,Cần Thơ,1,149000,149000
+KB00156,2024-07-14,BN0046,Khoa Nhi,Tiêm chủng vắc-xin,Khánh Hòa,2,288000,576000
+KB00157,2024-07-21,BN0036,Khoa Răng - Hàm - Mặt,Trám răng,Hà Nội,1,413000,413000
+KB00158,2024-05-26,BN0030,Chẩn đoán hình ảnh,Chụp X-quang,Khánh Hòa,2,205000,410000
+KB00159,2024-12-13,BN0018,Khoa Tai - Mũi - Họng,Nội soi tai mũi họng,Quảng Ninh,1,354000,354000
+KB00160,2024-08-13,BN0005,Khoa Ngoại,Thay băng - cắt chỉ,Khánh Hòa,1,98000,98000
+KB00161,2024-07-31,BN0023,Khoa Tai - Mũi - Họng,Nội soi tai mũi họng,Hải Phòng,1,343000,343000
+KB00162,2024-09-13,BN0035,Khoa Sản - Phụ khoa,Khám phụ khoa,Đà Nẵng,2,247000,494000
+KB00163,2024-06-22,BN0015,Khoa Răng - Hàm - Mặt,Cạo vôi răng,Bình Dương,3,294000,882000
+KB00164,2024-12-12,BN0051,Khoa Ngoại,Khám ngoại,Đồng Nai,1,146000,146000
+KB00165,2024-10-01,BN0016,Khoa Tai - Mũi - Họng,Nội soi tai mũi họng,Bình Dương,1,333000,333000
+KB00166,2024-07-09,BN0014,Khoa Tai - Mũi - Họng,Khám tai mũi họng,Quảng Ninh,1,155000,155000
+KB00167,2024-10-14,BN0042,Khoa Nhi,Tiêm chủng vắc-xin,Khánh Hòa,1,312000,312000
+KB00168,2024-12-24,BN0039,Khoa Nhi,Khí dung,Quảng Ninh,1,124000,124000
+KB00169,2024-06-04,BN0064,Khoa Mắt,Khám mắt,TP. Hồ Chí Minh,1,157000,157000
+KB00170,2024-08-20,BN0048,Khoa Ngoại,Khám ngoại,Quảng Ninh,2,145000,290000
+KB00171,2024-07-31,BN0013,Khoa Xét nghiệm,Xét nghiệm nước tiểu,Bình Dương,1,123000,123000
+KB00172,2024-12-19,BN0048,Chẩn đoán hình ảnh,Chụp cộng hưởng từ (MRI),Hải Phòng,2,2445000,4890000
+KB00173,2024-02-20,BN0048,Khoa Da liễu,Điều trị laser,Đồng Nai,3,621000,1863000
+KB00174,2024-03-03,BN0059,Khoa Tim mạch,Siêu âm tim,TP. Hồ Chí Minh,1,391000,391000
+KB00175,2024-01-11,BN0007,Khoa Tim mạch,Khám tim mạch,Nghệ An,1,252000,252000
+KB00176,2024-10-10,BN0027,Khoa Nhi,Khám nhi,Khánh Hòa,1,146000,146000
+KB00177,2024-11-01,BN0001,Khoa Nhi,Khám nhi,Cần Thơ,1,145000,145000
+KB00178,2024-02-26,BN0004,Khoa Sản - Phụ khoa,Khám thai định kỳ,Đà Nẵng,1,206000,206000
+KB00179,2024-06-14,BN0003,Khoa Nội,Điện tim (ECG),Đà Nẵng,1,117000,117000
+KB00180,2024-02-28,BN0009,Khoa Răng - Hàm - Mặt,Khám răng,Bình Dương,1,99000,99000
+KB00181,2024-09-14,BN0029,Khoa Da liễu,Điều trị laser,Khánh Hòa,1,577000,577000
+KB00182,2024-09-23,BN0039,Khoa Nội,Tư vấn nội tiết - đái tháo đường,Bình Dương,1,207000,207000
+KB00183,2024-07-24,BN0055,Khoa Tim mạch,Khám tim mạch,Quảng Ninh,1,249000,249000
+KB00184,2024-02-11,BN0042,Khoa Ngoại,Tiểu phẫu,Khánh Hòa,1,795000,795000
+KB00185,2024-10-26,BN0042,Khoa Sản - Phụ khoa,Khám thai định kỳ,Thanh Hóa,1,202000,202000
+KB00186,2024-02-20,BN0015,Chẩn đoán hình ảnh,Chụp CT-Scanner,Quảng Ninh,1,1516000,1516000
+KB00187,2024-08-19,BN0030,Khoa Tim mạch,Holter điện tim 24h,Thanh Hóa,1,680000,680000
+KB00188,2024-06-09,BN0055,Khoa Tai - Mũi - Họng,Khám tai mũi họng,Nghệ An,1,153000,153000
+KB00189,2024-08-30,BN0009,Khoa Tim mạch,Siêu âm tim,TP. Hồ Chí Minh,1,386000,386000
+KB00190,2024-07-09,BN0017,Khoa Ngoại,Khám ngoại,Đồng Nai,1,154000,154000
+KB00191,2024-12-09,BN0016,Khoa Nội,Tư vấn nội tiết - đái tháo đường,Thanh Hóa,3,201000,603000
+KB00192,2024-05-27,BN0040,Khoa Tai - Mũi - Họng,Khám tai mũi họng,Nghệ An,2,153000,306000
+KB00193,2024-09-03,BN0029,Khoa Ngoại,Thay băng - cắt chỉ,TP. Hồ Chí Minh,1,97000,97000
+KB00194,2024-04-25,BN0055,Khoa Tai - Mũi - Họng,Khám tai mũi họng,Đồng Nai,1,147000,147000
+KB00195,2024-12-21,BN0035,Chẩn đoán hình ảnh,Chụp X-quang,Hà Nội,1,203000,203000
+KB00196,2024-06-22,BN0045,Khoa Sản - Phụ khoa,Siêu âm thai 4D,Hà Nội,1,343000,343000
+KB00197,2024-03-13,BN0004,Khoa Sản - Phụ khoa,Khám thai định kỳ,TP. Hồ Chí Minh,1,198000,198000
+KB00198,2024-03-21,BN0048,Khoa Xét nghiệm,Xét nghiệm máu,Cần Thơ,1,249000,249000
+KB00199,2024-11-12,BN0007,Khoa Tai - Mũi - Họng,Nội soi tai mũi họng,Quảng Ninh,2,338000,676000
+KB00200,2024-11-06,BN0057,Khoa Ngoại,Tiểu phẫu,Thanh Hóa,1,794000,794000
+KB00201,2024-08-08,BN0015,Khoa Răng - Hàm - Mặt,Nhổ răng,Cần Thơ,1,481000,481000
+KB00202,2024-06-06,BN0006,Khoa Tim mạch,Holter điện tim 24h,Hải Phòng,1,702000,702000
+KB00203,2024-04-18,BN0018,Khoa Mắt,Khám mắt,Cần Thơ,1,147000,147000
+KB00204,2024-08-08,BN0023,Khoa Răng - Hàm - Mặt,Trám răng,Đà Nẵng,1,400000,400000
+KB00205,2024-06-30,BN0010,Khoa Mắt,Khám mắt,Thanh Hóa,1,155000,155000
+KB00206,2024-06-09,BN0055,Khoa Nội,Điện tim (ECG),Khánh Hòa,1,125000,125000
+KB00207,2024-06-15,BN0022,Khoa Mắt,Đo thị lực,Khánh Hòa,1,79000,79000
+KB00208,2024-05-04,BN0056,Khoa Da liễu,Điều trị laser,Khánh Hòa,1,621000,621000
+KB00209,2024-06-22,BN0029,Khoa Mắt,Khám mắt,Nghệ An,1,147000,147000
+KB00210,2024-09-18,BN0025,Khoa Sản - Phụ khoa,Khám thai định kỳ,Nghệ An,1,192000,192000

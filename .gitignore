@@ -10,6 +10,7 @@ venv/
 env/
 
 # SQLite database (tự tạo khi chạy app)
+health_dashboard.db
 sales_dashboard.db
 
 # Streamlit
